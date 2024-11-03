@@ -1,0 +1,4 @@
+BPM-Project
+- bikin github
+- ⁠bikin struktur file
+- ⁠bikin komponen
