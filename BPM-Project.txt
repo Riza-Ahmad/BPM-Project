@@ -4,3 +4,4 @@ BPM-Project
 - ⁠bikin komponen
 - membuat CRUD
 - Ubah Lagi
+- tambah lagi cuy
